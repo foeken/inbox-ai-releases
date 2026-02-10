@@ -2,8 +2,20 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <title>Inbox AI</title>
-        <description>Most recent changes with links to updates.</description>
+        <description>Inbox AI Updates</description>
         <language>en</language>
-        <!-- Items will be added here when releases are built, signed, and notarized -->
+        <item>
+            <title>Version 3.0</title>
+            <sparkle:version>202602102231</sparkle:version>
+            <sparkle:shortVersionString>3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <pubDate>Tue, 10 Feb 2026 22:37:02 +0100</pubDate>
+            <enclosure
+                url="https://github.com/foeken/inbox-ai-releases/releases/download/v3.0/InboxAI-3.0.dmg"
+                sparkle:edSignature="271xKNssASO61nBYQBVBQjffaMBM7g/U/I2ISg3p79NerI2LpFj+30T4r6r2AuV5In9m4Jy1QF1x+D/Z/NarCg=="
+                length="25655189"
+                type="application/octet-stream"
+            />
+        </item>
     </channel>
 </rss>
