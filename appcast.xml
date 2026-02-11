@@ -11,7 +11,7 @@
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
             <pubDate>Wed, 11 Feb 2026 18:35:44 +0100</pubDate>
             <enclosure
-                url="https://github.com/foeken/inbox-ai-releases/releases/download/v3.1/InboxAI-3.1.dmg"
+                url="https://github.com/foeken/inbox-ai-releases/releases/download/v3.1/InboxAI.dmg"
                 sparkle:edSignature="bO4w0JmO4qaTzWZWL17gIbUWbept/OaBt9XrgwFzMCCuSx0QvYjWHMIE4Yk2Reb7NCq3bNHWZnK+hA/AqLujBQ=="
                 length="25867276"
                 type="application/octet-stream"
