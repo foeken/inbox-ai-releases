@@ -5,15 +5,15 @@
         <description>Inbox AI Updates</description>
         <language>en</language>
         <item>
-            <title>Version 3.3.2</title>
-            <sparkle:version>202602162120</sparkle:version>
-            <sparkle:shortVersionString>3.3.2</sparkle:shortVersionString>
+            <title>Version 3.4.0</title>
+            <sparkle:version>202603011829</sparkle:version>
+            <sparkle:shortVersionString>3.4.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <pubDate>Mon, 16 Feb 2026 21:25:19 +0100</pubDate>
+            <pubDate>Sun, 01 Mar 2026 18:34:53 +0100</pubDate>
             <enclosure
-                url="https://github.com/foeken/inbox-ai-releases/releases/download/v3.3.2/InboxAI.dmg"
-                sparkle:edSignature="R/EQyT12YYkaWbYkceB79qDtyFx8grHE+YakQ+uDnEYnWCCIqA1jTNWsqk86mB2WL1dmpCTDGW3fkahL/iXqDQ=="
-                length="26732109"
+                url="https://github.com/foeken/inbox-ai-releases/releases/download/v3.4.0/InboxAI.dmg"
+                sparkle:edSignature="CmJzkwNonBZ8KrvugGNYxmJBry2y2p1kROHb1pxDmUo0uDj1At7sjWbCyAkyD0ZL944zgCVIuDXTEMA1Vb4sBw=="
+                length="27262957"
                 type="application/octet-stream"
             />
         </item>
